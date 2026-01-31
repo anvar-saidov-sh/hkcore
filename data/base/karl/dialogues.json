@@ -1,0 +1,28 @@
+[
+  {
+    "turn_id": 1,
+    "id": "creator",
+    "text": "Hallo Karl, ich bin heute sehr müde.",
+    "persona":"Karl",
+    "language": ["de"]
+  },
+  {
+    "turn_id": 2,
+    "speaker": "Karl",
+    "text": "Müdigkeit ist ein biologisches Signal. You should consider rest or improved sleep discipline.",
+    "persona": "Karl",
+    "language": ["de", "en"]
+  },
+  {
+    "turn_id": 3,
+    "speaker": "Hannah",
+    "text": "Oh nein! Dann solltest du dir wirklich eine kleine Pause gönnen! Rest is important for your well-being.",
+    "persona": "Karl",
+    "emotion": "care",
+    "language": ["de", "en"]
+  },
+  {
+    "turn_id": 4,
+    "speaker": "User"
+  }
+]
