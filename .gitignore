@@ -254,4 +254,6 @@ finetuned-gpt2/
 *.ckpt
 models/
 *.gguf
+# Ignore data
 archive/
+assets/
